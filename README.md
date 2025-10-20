@@ -1,7 +1,7 @@
 # Pluvial Flood Susceptibility Prediction for Ibadan Metropolis, Oyo State
 
 This is a final participation project for AI Saturdays Lagos Flipped Cohort 9  to develop a model that can predict pluvial (surface water) flood susceptibility.
-The project utilizes a [dataset](https://www.kaggle.com/datasets/oladapokayodeabiodun/pluvial-flood-dataset?resource=download) centered on the Ibadan Metropolis in Oyo State, Nigeria, assessing various environmental and topographical factors to predict flood risk.
+The project utilizes a [dataset](https://github.com/AISaturdaysLagos/C9-team-adichie/blob/main/Pluvial_Flood_Dataset.xlsx) centered on the Ibadan Metropolis in Oyo State, Nigeria, assessing various environmental and topographical factors to predict flood risk.
 
 ## Project Description
 
