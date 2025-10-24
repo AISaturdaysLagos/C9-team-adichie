@@ -57,14 +57,14 @@ The performance of the classification model will be evaluated using standard met
 
 ## Team Members
 
-  * Oluwabunmi Omoregie
-  * Deborah Olatona
-  * Lawal Fawaz
-  * Bello Ridwan
-  * Ayodeji Adesegun
+  * [Oluwabunmi Omoregie](https://www.linkedin.com/in/oluwabunmiomoregie/)
+  * [Deborah Olatona](https://www.linkedin.com/in/deborah-olatona/)
+  * [Lawal Fawaz](https://www.linkedin.com/in/fawaz-lawal-57a27a220/)
+  * [Bello Ridwan](ridwanbabatunde.bello@gmail.com)
+  * [Ayodeji Adesegun](https://www.linkedin.com/in/ayodejiades/)
 
 
 ## Acknowledgments
 
   * **Dr. Oladapo Kayode Abiodun** for creating and sharing this valuable dataset on Kaggle.
-  * **AI Saturdays Lagos** for providing the platform and opportunity for this project.
+  * [**AI Saturdays Lagos**](https://www.aisaturdayslagos.com/) for providing the platform and opportunity for this project.
